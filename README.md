@@ -36,6 +36,7 @@ The goal of this project is to validate critical user journeys such as authentic
   [Test Scenario](https://docs.google.com/spreadsheets/d/17XXNfxHiOG1_R7FZQ3Jupex3dSj8jy3lmBqzJ2DZ3MM/edit?gid=0#gid=0)
 
 📊 **Testing Evidence**
+
 Check out the testing evidence video of the automated tests on YouTube:
 
 [Testing Evidence](https://youtu.be/joFs1QI4HTU)
