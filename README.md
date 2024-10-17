@@ -10,6 +10,7 @@ The goal of this project is to validate critical user journeys such as authentic
 - Cypress: Automated testing framework for end-to-end testing.
 - Visual Studio Code: Code editor used for development.
 - Spreadsheet: Test planning and tracking.
+- Qase.io: Test planning and tracking.
 - GitHub: Version control for collaboration and version management.
 - YouTube: Demo video showcasing the project results.
 
@@ -32,7 +33,9 @@ The goal of this project is to validate critical user journeys such as authentic
 4. Logout Functionality:
   - Ensuring successful logout after purchase or browsing.
 
-  [Test Scenario](https://docs.google.com/spreadsheets/d/17XXNfxHiOG1_R7FZQ3Jupex3dSj8jy3lmBqzJ2DZ3MM/edit?gid=0#gid=0)
+  [Test Scenario documented on Spreadsheet](https://docs.google.com/spreadsheets/d/17XXNfxHiOG1_R7FZQ3Jupex3dSj8jy3lmBqzJ2DZ3MM/edit?gid=0#gid=0)
+
+  [Test Scenarios documented on Qase.io](https://app.qase.io/public/report/8654e343f837f25fd02701b2b71a0d41d24c021a)
 
 ## 📊 **Testing Evidence** 📊
 
