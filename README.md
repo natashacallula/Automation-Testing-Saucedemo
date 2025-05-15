@@ -35,8 +35,6 @@ The goal of this project is to validate critical user journeys such as authentic
 
   [Test Scenario documented on Spreadsheet](https://docs.google.com/spreadsheets/d/17XXNfxHiOG1_R7FZQ3Jupex3dSj8jy3lmBqzJ2DZ3MM/edit?gid=0#gid=0)
 
-  [Test Scenarios documented on Qase.io](https://app.qase.io/public/report/8654e343f837f25fd02701b2b71a0d41d24c021a)
-
 ## 📊 **Testing Evidence** 📊
 
 **Check out the testing evidence video of the automated tests on YouTube:**
